@@ -11,3 +11,4 @@ Community Examples are demo integrations and implementations designed to assist 
 * [Inbound Webhooks](https://github.com/arcxp/ifx-example-webhooks)
 * [Send data to an external source](https://github.com/arcxp/ifx-example-send-data-to-an-external-application-nodejs)
 * [Automatically update a story's workflow status](https://github.com/arcxp/ifx-example-workflow-status)
+* [Send a story for print from Composer to IFX](https://github.com/arcxp/ifx-example-send-to-print)
